@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1782230714822",
+    "companyName": "TechNova Solutions Private Limited",
+    "cin": "U72900AP2024PTC123456",
+    "email": "gurramjaiganeshreddy@gmail.com",
+    "phone": "+917075770517",
+    "address": "27 Park View Business Centre, MG Road, Bengaluru, Karnataka 560001, India",
+    "pan": "ABCDE1234F",
+    "tan": "ABCDEF1234",
+    "rocOffice": "Registrar of Companies, Vijayawada",
+    "incorporationDate": "2026-06-12",
+    "directors": [
+      {
+        "name": "RahulSharma",
+        "din": "12345678",
+        "designation": "Director",
+        "email": "rahul.sharma@gmail.com",
+        "phone": "+919867243512",
+        "appointmentDate": "2026-07-07",
+        "id": 1782230712644
+      }
+    ],
+    "createdAt": "2026-06-23T16:05:14.822Z"
+  },
+  {
+    "_id": "1782366889784",
+    "companyName": "TechNova Solutions Private Limited",
+    "cin": "U72900AP2024PTC123456",
+    "email": "gurramjaiganeshreddy@gmail.com",
+    "phone": "+917075770517",
+    "address": "bengaluru",
+    "pan": "ABCDE1234F",
+    "tan": "",
+    "rocOffice": "Registrar of Companies, Vijayawada",
+    "incorporationDate": "2026-06-12",
+    "directors": [
+      {
+        "name": "RahulSharma",
+        "din": "12345678",
+        "designation": "Director",
+        "email": "rahul.sharma@gmail.com",
+        "phone": "+919867243512",
+        "appointmentDate": "2026-06-27",
+        "id": 1782366884075
+      }
+    ],
+    "createdAt": "2026-06-25T05:54:49.786Z"
+  }
+]
