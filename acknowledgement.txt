@@ -1,0 +1,20 @@
+================================================================================
+{{companyName}}
+CIN: {{cin}}
+Regd office: {{address}}
+Email ID: {{companyEmail}}                                     Ph No: {{companyPhone}}
+================================================================================
+
+ACKNOWLEDGEMENT FOR RECEIVAL OF NOTICE OF THE MEETING OF THE BOARD OF DIRECTORS OF THE COMPANY HELD ON {{meetingDay}} THE {{meetingDateText}} AT {{meetingTime}} AT THE REGISTERED OFFICE OF THE COMPANY AT {{address}}.
+
+            ACKNOWLEDGEMENT FOR RECEIVAL OF NOTICE OF BOARD MEETING
+
+--------------------------------------------------------------------------------
+SL.  |
+NO.  |             NAME OF THE DIRECTOR              | SIGNATURE OF THE DIRECTOR
+--------------------------------------------------------------------------------
+{{#directors}}
+{{index}}.  | {{name}}                                       |
+     |                                               |
+--------------------------------------------------------------------------------
+{{/directors}}

@@ -1,0 +1,37 @@
+<div class="letterhead-header">
+  <div class="letterhead-company">{{companyName}}</div>
+  <div class="letterhead-cin">CIN: {{cin}}</div>
+  <div class="letterhead-details">
+    Regd office: {{address}}<br>
+    Email ID: {{companyEmail}} &nbsp;&nbsp;|&nbsp;&nbsp; Ph No: {{companyPhone}}
+  </div>
+</div>
+
+<div style="text-align: center; font-weight: 700; font-size: 1.15rem; margin-bottom: 2.5rem; text-decoration: underline;">
+  NOTICE OF BOARD MEETING
+</div>
+
+SHORTER NOTICE with the consent of all the Board of Directors be and is hereby given
+that a meeting of Board of Directors of {{companyName}} will be held on {{meetingDay}}, the {{meetingDateText}} at {{meetingTime}} at the registered office of the company at {{address}}.
+
+The Agenda of the business to be transacted at the meeting is enclosed.
+
+You are requested to make it convenient to attend the Board Meeting.
+
+Thanking you,
+
+Yours truly,
+For {{companyName}}
+
+
+{{signingDirectorName}}
+Director
+DIN: {{signingDirectorDin}}
+
+Place: {{place}}
+Date: {{noticeDate}}
+
+To,
+{{#directors}}
+{{index}}. {{name}}
+{{/directors}}

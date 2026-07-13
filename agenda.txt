@@ -1,0 +1,34 @@
+================================================================================
+                                    {{companyName}}
+                                     CIN: {{cin}}
+Regd office: {{address}}
+Email ID: {{companyEmail}}                                     Ph No: {{companyPhone}}
+================================================================================
+
+                                    AGENDA OF THE BOARD MEETING
+
+Day  : {{meetingDay}}          | Venue: - {{address}}
+Date : {{meetingDateText}}     |
+Time : {{meetingTime}}         |
+--------------------------------------------------------------------------------
+Item |
+No.  |                    Business to be transacted
+--------------------------------------------------------------------------------
+1.   | Election of Chairman of the Meeting.
+2.   | To grant leave of absence, if any.
+3.   | Approval of previous Board Meeting minutes.
+4.   | To discuss on Appointment of {{newDirectorName}} as Additional
+     | Director of the Company.
+5.   | To Change the Registered Office of the Company.
+6.   | To do any other business with the permission of the chair.
+--------------------------------------------------------------------------------
+
+For {{companyName}}
+
+
+{{signingDirectorName}}
+Director
+DIN: {{signingDirectorDin}}
+
+Place: {{place}}
+Date: {{noticeDate}}

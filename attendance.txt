@@ -1,0 +1,20 @@
+================================================================================
+{{companyName}}
+CIN: {{cin}}
+Regd office: {{address}}
+Email ID: {{companyEmail}}                                     Ph No: {{companyPhone}}
+================================================================================
+
+ATTENDENCE OF THE MEETING OF THE BOARD OF DIRECTORS OF THE COMPANY HELD ON {{meetingDay}} THE {{meetingDateText}} AT {{meetingTime}} AT THE REGISTERED OFFICE OF THE COMPANY AT {{address}}.
+
+                                ATTENDENCE SHEET
+
+--------------------------------------------------------------------------------
+SL.  |
+NO.  |             NAME OF THE DIRECTOR              |         SIGNATURE
+--------------------------------------------------------------------------------
+{{#directors}}
+{{index}}.  | {{name}}                                       |
+     |                                               |
+--------------------------------------------------------------------------------
+{{/directors}}

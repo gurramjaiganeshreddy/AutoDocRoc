@@ -1,0 +1,41 @@
+================================================================================
+{{companyName}}
+CIN: {{cin}}
+Regd office: {{address}}
+Email ID: {{companyEmail}}                                     Ph No: {{companyPhone}}
+================================================================================
+
+MINUTES OF THE {{meetingNumber}} MEETING OF THE BOARD OF DIRECTORS OF THE COMPANY HELD ON {{meetingDay}} THE {{meetingDateText}} AT {{meetingTime}} AT THE REGISTERED OFFICE OF THE COMPANY AT {{address}}.
+
+DIRECTORS PRESENT:
+{{#directors}}
+{{index}}. {{name}}
+{{/directors}}
+
+1. CHAIRMAN OF THE MEETING
+
+As the requisite quorum was present at the meeting Mrs./Mr. {{chairmanName}} was requested to chair the meeting. In this connection the following resolution was passed:
+
+"RESOLVED THAT Mrs./Mr. {{chairmanName}}, <Director> of the company be and is hereby elected as Chairman of this meeting of the Board of Directors."
+
+2. LEAVE OF ABSENCE
+
+No leave of absence was granted as all the directors were present at the meeting.
+
+3. CONFIRMATION OF MINUTES OF THE PREVIOUS BOARD MEETING
+
+The minutes of the previous Board Meeting held on {{previousMeetingDate}} having been circulated, were taken as read and the Chairman of this meeting signed the same as fair and correct record were confirmed by passing the following resolution.
+
+"RESOLVED THAT the Minutes of the Board Meeting held on {{previousMeetingDate}} be and are hereby read and confirmed."
+
+4. APPOINTMENT OF MRS./MR. {{newDirectorName}} (DIN: {{newDin}}) AS ADDITIONAL DIRECTOR:
+
+The Chairman informed the Board that Mrs./Mr. {{newDirectorName}} was selected for the Appointment and Consent to act as Director has been received for appointment as Director of the Company and the same has been placed before the Board of Directors and the board after discussion passed the following resolution.
+
+"RESOLVED THAT pursuant to Section 161 of the Companies Act, 2013 and other applicable provisions, Mrs./Mr. {{newDirectorName}} be and is hereby appointed as an Additional Director of the Company."
+
+For {{companyName}}
+
+
+{{chairmanName}}
+Chairman

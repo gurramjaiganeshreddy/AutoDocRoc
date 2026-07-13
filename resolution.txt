@@ -1,0 +1,24 @@
+================================================================================
+{{companyName}}
+CIN: {{cin}}
+Regd office: {{address}}
+Email ID: {{companyEmail}}                                     Ph No: {{companyPhone}}
+================================================================================
+
+EXTRACTS OF RESOLUTION PASSED AT THE MEETING OF BOARD OF DIRECTORS OF THE COMPANY HELD ON {{meetingDay}} THE {{meetingDateText}} AT {{meetingTime}} AT THE REGISTERED OFFICE OF THE COMPANY AT {{address}}.
+
+APPOINTMENT OF MRS./MR. {{newDirectorName}} (DIN: {{newDin}}) AS ADDITIONAL DIRECTOR:
+
+"RESOLVED THAT in accordance with the provisions of Section 161 of the Companies Act, 2013 and pursuant to the provisions of the Companies Act, 2013 and read with articles of association of the company and the approval of the Board severally and is hereby accorded for appointment of Mrs./Mr. {{newDirectorName}} as <additional Director> of the Company."
+
+"FURTHER RESOLVED THAT the Mrs./Mr. {{chairmanName}}, the director of the company be and is hereby authorized to file e form DIR - 12 with the registrar of Companies and also to initiate all acts, deeds, matters in the above connection accordingly".
+
+                             ##CERTIFIED TRUE COPY##
+
+                        FOR {{companyName}}
+
+
+
+                        {{signingDirectorName}}
+                        <DIRECTOR>
+                        <DIN: {{signingDirectorDin}}>
