@@ -11,12 +11,12 @@ services:
         value: 5000
 
   # 2. Frontend React Client
-  - type: static
+  - type: web
     name: autodoc-frontend
-    env: static
+    runtime: static
     rootDir: client
     buildCommand: npm run build
-    publishDir: dist
+    publishPath: dist
     envVars:
       - key: VITE_API_URL
         fromService:
